@@ -1,0 +1,1 @@
+from .templateproject import init_proj
