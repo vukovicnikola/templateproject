@@ -4,7 +4,7 @@
 
 Science projects tend to generate a lot of documents, ranging from project proposals, ethics forms, notes and to-do lists, publication drafts, graphs, PowerPoint presentations – to name just a few. Not to mention all the experimental materials, data, and analysis code. It's easy to see how managing these can quickly become stressful and challenging. Indeed, in the past I've authored quite a number of poorly managed project folders myself. Some of them grew to such proportions they ended up developing sentience and serious self-esteem issues.
 
-Happily, I have developed an approach to manage the digital side of my research more successfully and automatically - and so can you! The key is in adopting a logical and consistent project folder structure. Having this before you start a research project means you can work efficiently, find your files more easily, prevent duplication, and be able to share and collaborate while minimising the risk of data loss.
+Happily, I've developed an approach to manage the digital side of my research more successfully and automatically - and so can you! The key is in adopting a logical and consistent project folder structure. Having this before you start a research project means you can work efficiently, find files more easily, prevent duplication, and be able to share and collaborate while minimising the risk of data loss.
 
 
 ## Requirements
