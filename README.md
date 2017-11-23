@@ -60,7 +60,7 @@ init_project your-project-name
 
 * to facilitate version control of scripts in the analysis directory,
 boilerplate files are added: an MIT LICENSE.txt, a README.md,
-and a __init__.py to make funcs directory act as a Python module.
+and a __init__.py to make the funcs directory act as a Python module.
 ```
 
 
