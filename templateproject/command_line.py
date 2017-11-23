@@ -1,4 +1,9 @@
 import templateproject
 
-def main(project_name):
-    templateproject.init_proj(project_name)
+def main():
+    import sys
+    arg1 = sys.argv[1]
+    templateproject.init_proj(arg1)
+    
+if __name__ == "__main__":
+    main()
