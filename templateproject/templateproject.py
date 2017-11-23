@@ -95,24 +95,24 @@ SOFTWARE."])
     readme_file = open(readme_path, 'a')
     readme_file.writelines(
     ["# Sample Project README\n\
-    > A short description of what the project is about\n\
-    ----------------\n\
-    Longer project description...\n\
-    ## Requirements\n\
-    ----------------\n\
-    - [Requirement 1](https://www.google.com)\n\
-    ## Installation\n\
-    ----------------\n\
-    Install the package in terminal using:\n\
-    ```sh\n\
-    pip install 'package'\n\
-    ```\n\
-    ## Usage\n\
-    ----------------\n\
-    Describe how to use the project...\n\
-    ## Author\n\
-    ----------------\n\
-    @Author – [https://github.com/username/](https://github.com/username/)\n\n\
-    Distributed under the MIT license. See LICENSE.txt for more information."]
+> A short description of what the project is about\n\
+----------------\n\
+Longer project description...\n\n\
+## Requirements\n\
+----------------\n\
+- [Requirement 1](https://www.google.com)\n\n\
+## Installation\n\
+----------------\n\
+Install the package in terminal using:\n\
+```sh\n\
+pip install 'package'\n\
+```\n\n\
+## Usage\n\
+----------------\n\
+Describe how to use the project...\n\n\
+## Author\n\
+----------------\n\
+@Author – [https://github.com/username/](https://github.com/username/)\n\n\
+Distributed under the MIT license. See LICENSE.txt for more information."]
     )
     readme_file.close()
