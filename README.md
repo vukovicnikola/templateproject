@@ -58,7 +58,9 @@ init_project your-project-name
     ├── 2_publications      <-- journal articles, published conference proceedings...
     └── 3_publicity         <-- media coverage and publicity, newspaper articles, outreach...
 
-* to facilitate version control of scripts in the analysis directory, boilerplate files are added: and MIT LICENSE.txt, a README.md, and a __init__.py to make funcs directory act as a Python module.  
+* to facilitate version control of scripts in the analysis directory,
+boilerplate files are added: an MIT LICENSE.txt, a README.md,
+and a __init__.py to make funcs directory act as a Python module.
 ```
 
 
