@@ -6,6 +6,7 @@ Science projects tend to generate a lot of documents, ranging from project propo
 
 Happily, I've developed an approach to manage the digital side of my research more successfully and automatically - and so can you! The key is in adopting a logical and consistent project folder structure. Having this before you start a research project means you can work efficiently, find files more easily, prevent duplication, and be able to share and collaborate while minimising the risk of data loss.
 
+![](img/init_proj.gif)
 
 ## Requirements
 ----------------
