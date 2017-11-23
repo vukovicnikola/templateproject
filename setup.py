@@ -16,6 +16,7 @@ setup(name='templateproject',
       description='Generate Template Directory Structure for Projects',
       url='http://github.com/vukovicnikola/templateproject',
       author='Nikola Vukovic',
+      author_email='contact@nikola.me',
       license='MIT',
       packages=['templateproject'],
       entry_points = {
