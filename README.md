@@ -13,13 +13,13 @@ Happily, I have developed an approach to manage the digital side of my research 
 
 ## Installation
 ----------------
-Download and install the package locally with:
+Install the package in terminal using pip:
 ```sh
-pip install .
+pip install templateproject
 ```
-or clone the repo, and install with a symlink, so that changes will be immediately available after source updates:
+or install directly from GitHub, so that source changes will be immediately available after updates:
 ```sh
-pip install -e .
+pip install git+https://github.com/vukovicnikola/templateproject.git
 ```
 ## Usage
 ----------------
