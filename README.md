@@ -32,7 +32,7 @@ init_project your-project-name
 ## Project Folder Structure
 ----------------
 ```
-./test-project/
+./your-project-name/
 ├── 1_admin
 │   ├── 1_proposals         <-- project background, plans, proposals and applications...
 │   ├── 2_finance           <-- funding applications, receipts, project budgets...
