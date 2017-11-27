@@ -26,7 +26,7 @@ pip install git+https://github.com/vukovicnikola/templateproject.git
 ----------------
 After installing the package, you can use the terminal to initialise a new project structure:
 ```sh
-init_project your-project-name
+init_proj your-project-name
 ```
 
 
